@@ -3,13 +3,13 @@
 Clone the project
 
 ```bash
-  git clone https://gitlab.com/topmanager916-group1/e-commerce
+  git clone https://github.com/Dredsoft-Saros/eCommerce.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd eCommerce
 ```
 
 Install dependencies
@@ -31,5 +31,5 @@ Start the server
 The server should now be running. You can access the application by opening a web browser and entering the following URL:
 
 ```bash
-  http://localhost:3200
+  http://localhost:3000
 ```
