@@ -16,6 +16,10 @@ Install dependencies
 
 ```bash
   npm install
+
+  or 
+
+  npm install react-material-ui-carousel --save --legacy-peer-deps
 ```
 
 Start the server
